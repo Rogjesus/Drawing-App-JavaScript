@@ -1,0 +1,29 @@
+
+Drawing App JavaScript
+Descrição
+Este projeto consiste em uma aplicação web para desenho, implementada em JavaScript. A aplicação permite que os usuários desenhem na tela utilizando diferentes ferramentas, como pincel, borracha, e formas geométricas. Também inclui opções para ajustar o tamanho do traço, escolher cores e salvar a obra de arte como imagem.
+
+Tecnologias Utilizadas
+HTML5: Linguagem de marcação para a estrutura da página.
+CSS3: Folhas de estilo para o design e layout.
+JavaScript: Linguagem de programação para a lógica da aplicação.
+Canvas: API HTML5 para desenho na tela.
+SVG: Formato de imagem vetorial para ícones.
+Funcionalidades Principais
+Desenho livre com pincel.
+Borracha para apagar partes do desenho.
+Seleção de formas geométricas (retângulo, círculo, triângulo).
+Opção para preencher as formas geométricas.
+Controle de tamanho do traço.
+Escolha de cores para o desenho.
+Limpar o canvas.
+Salvar o desenho como imagem.
+Estrutura do Projeto
+index.html: Estrutura da página web.
+style.css: Estilos para o design da aplicação.
+script.js: Lógica da aplicação em JavaScript.
+icons/: Diretório contendo os ícones em formato SVG.
+README.md: Documentação do projeto.
+Como Usar
+Clone o repositório: git clone https://github.com/seu-usuario/drawing-app.git
+Abra o arquivo index.html em um navegador web.
